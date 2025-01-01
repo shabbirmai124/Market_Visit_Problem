@@ -1,0 +1,44 @@
+Customer bought a vase.
+Customer bought a vase.
+Customer bought a vase.
+Customer found vase sold out.
+Customer found vase sold out.
+Artist restocked vases.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer found vase still sold out online.
+Customer found vase still sold out online.
+Customer bought a vase at the market.
+Customer bought a vase at the market.
+Customer bought a vase at the market.
+Customer found vase sold out at the market.
+Customer found vase sold out at the market.
+Artist restocked vases.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer found vase still sold out online.
+Customer found vase still sold out online.
+Customer bought a vase at the market.
+Customer bought a vase at the market.
+Customer bought a vase at the market.
+Customer found vase sold out at the market.
+Customer found vase sold out at the market.
+Artist restocked vases.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer found vase still sold out online.
+Customer found vase still sold out online.
+Customer bought a vase at the market.
+Customer bought a vase at the market.
+Customer bought a vase at the market.
+Customer found vase sold out at the market.
+Customer found vase sold out at the market.
+Artist restocked vases.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer bought a vase online.
+Customer found vase still sold out online.
+Customer found vase still sold out online.
